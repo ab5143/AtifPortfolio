@@ -163,6 +163,15 @@ h3,
   margin: 15px;
   padding: 0;
   max-width: 400px;  /* computed max-width of img-responsive */
+  width: 10em;
+  height: 10em;
+  position: relative;
+}
+
+#criket-pic{
+  width: 20em;
+  height: 10em;
+  position: relative;
 }
 
 .caption h3 {
